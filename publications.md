@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Publications Authored
 permalink: /publications/
 ---
-
-###### Publications Authored  ######
 
 **Title** : Design For Women: An E-based platform for reporting and Visualizing data on cases of violence against women
 
